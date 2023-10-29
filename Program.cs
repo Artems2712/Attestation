@@ -4,26 +4,26 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Введите значение M: ");
-        int M = int.Parse(Console.ReadLine());
-
         Console.Write("Введите значение N: ");
         int N = int.Parse(Console.ReadLine());
 
-        int sum = SumNaturalNumbers(M, N);
-        Console.WriteLine($"Сумма натуральных чисел от {M} до {N} равна: {sum}");
+        if (N <= 1)
+        {
+            Console.WriteLine("Натуральные числа в промежутке от N до 1: ");
+        }
+        else
+        {
+            Console.WriteLine("Натуральные числа в промежутке от N до 1: ");
+            PrintNaturalNumbers(N);
+        }
     }
 
-    static int SumNaturalNumbers(int M, int N)
+    static void PrintNaturalNumbers(int N)
     {
-        int sum = 0;
-        for (int i = M; i <= N; i++)
+        if (N >= 1)
         {
-            if (i > 0)
-            {
-                sum += i;
-            }
+            Console.Write(N + " ");
+            PrintNaturalNumbers(N - 1);
         }
-        return sum;
     }
 }
