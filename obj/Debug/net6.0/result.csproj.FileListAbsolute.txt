@@ -1,0 +1,15 @@
+C:\Users\krive\OneDrive\Рабочий стол\result\bin\Debug\net6.0\result.exe
+C:\Users\krive\OneDrive\Рабочий стол\result\bin\Debug\net6.0\result.deps.json
+C:\Users\krive\OneDrive\Рабочий стол\result\bin\Debug\net6.0\result.runtimeconfig.json
+C:\Users\krive\OneDrive\Рабочий стол\result\bin\Debug\net6.0\result.dll
+C:\Users\krive\OneDrive\Рабочий стол\result\bin\Debug\net6.0\result.pdb
+C:\Users\krive\OneDrive\Рабочий стол\result\obj\Debug\net6.0\result.csproj.AssemblyReference.cache
+C:\Users\krive\OneDrive\Рабочий стол\result\obj\Debug\net6.0\result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krive\OneDrive\Рабочий стол\result\obj\Debug\net6.0\result.AssemblyInfoInputs.cache
+C:\Users\krive\OneDrive\Рабочий стол\result\obj\Debug\net6.0\result.AssemblyInfo.cs
+C:\Users\krive\OneDrive\Рабочий стол\result\obj\Debug\net6.0\result.csproj.CoreCompileInputs.cache
+C:\Users\krive\OneDrive\Рабочий стол\result\obj\Debug\net6.0\result.dll
+C:\Users\krive\OneDrive\Рабочий стол\result\obj\Debug\net6.0\refint\result.dll
+C:\Users\krive\OneDrive\Рабочий стол\result\obj\Debug\net6.0\result.pdb
+C:\Users\krive\OneDrive\Рабочий стол\result\obj\Debug\net6.0\result.genruntimeconfig.cache
+C:\Users\krive\OneDrive\Рабочий стол\result\obj\Debug\net6.0\ref\result.dll
